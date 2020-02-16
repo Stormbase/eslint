@@ -1,0 +1,7 @@
+- id: eslint
+  name: Eslint
+  description: "Find and fix problems in your JavaScript code."
+  entry: eslint
+  language: node
+  require_serial: true
+  types: ["javascript"]
